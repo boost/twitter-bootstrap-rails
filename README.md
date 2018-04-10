@@ -1,3 +1,8 @@
+# This is a fork for Twitter Bootstrap Rails gem version 2.0.8
+The reason we need this is for Ombudsmen project which uses this version. But the runtime dependency therubyracer version was not working for MacOS 10 or higher. We removed the
+therubyracer runtime dependency.
+
+
 # Twitter Bootstrap for Rails 3.1 Asset Pipeline
 Bootstrap is a toolkit from Twitter designed to kickstart development of webapps and sites. It includes base CSS and HTML for typography, forms, buttons, tables, grids, navigation, and more.
 
